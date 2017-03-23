@@ -1,7 +1,7 @@
 koa-cors
 ========
 
-CORS middleware for Koa
+CORS middleware for Koa pinned at koa@1
 
 Inspired by the great [node-cors](https://github.com/troygoode/node-cors) module.
 
